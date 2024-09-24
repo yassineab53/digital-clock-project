@@ -1,29 +1,3 @@
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 0;
-        padding: 20px;
-        background-color: #f4f4f4;
-    }
-    h1, h2 {
-        color: #333;
-    }
-    code {
-        background-color: #f4f4f4;
-        padding: 2px 6px;
-        border-radius: 4px;
-        font-family: Consolas, Monaco, 'Courier New', Courier, monospace;
-    }
-    pre {
-        background-color: #333;
-        color: #fff;
-        padding: 10px;
-        border-radius: 5px;
-        overflow-x: auto;
-    }
-</style>
-
 <h1>Digital Clock Project</h1>
 
 <p>A simple digital clock created using HTML, CSS, and JavaScript.</p>
