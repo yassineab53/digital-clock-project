@@ -7,10 +7,14 @@ body {
     margin: 0;
     background: #1a1a1a;
     color: #fff;
+    background-image: url('i.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .clock {
-    background: #333;
+    background: #0000008e;
     border-radius: 10px;
     padding: 30px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);

@@ -22,4 +22,8 @@ function updateClock() {
 
 updateClock();
 
+// setTimeout(() => {
+//     updateClock();
+// }, 1000)
+
 setInterval(updateClock, 1000);
