@@ -22,7 +22,7 @@
 <h2>How to Run the Project</h2>
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/your-username/digital-clock-project.git</code></pre>
+        <pre><code>git clone https://github.com/yassineab53/digital-clock-project.git</code></pre>
     </li>
     <li><strong>Navigate to the project folder:</strong>
         <pre><code>cd digital-clock-project</code></pre>
@@ -57,5 +57,3 @@
     <li>Add timezone selection.</li>
 </ul>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
