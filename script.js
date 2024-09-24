@@ -20,8 +20,6 @@ function updateClock() {
     document.getElementById('time').textContent = `${hours}:${minutes}:${seconds}`;
 }
 
-// Call updateClock every 1 second
-setInterval(updateClock, 1000);
-
-// Initial call to display the clock immediately when the page loads
 updateClock();
+
+setInterval(updateClock, 1000);
