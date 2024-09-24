@@ -1,0 +1,24 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #1a1a1a;
+    color: #fff;
+}
+
+/* Clock Styles */
+.clock {
+    background: #333;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+#time {
+    font-size: 60px;
+    letter-spacing: 3px;
+}
