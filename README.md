@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Digital Clock Project</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -29,8 +24,7 @@
             overflow-x: auto;
         }
     </style>
-</head>
-<body>
+
 
     <h1>Digital Clock Project</h1>
 
@@ -94,5 +88,3 @@
     <h2>License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
-</body>
-</html>
